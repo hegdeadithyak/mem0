@@ -13,3 +13,4 @@ from .vector_db.elasticsearch import ElasticsearchDBConfig
 from .vector_db.opensearch import OpenSearchDBConfig
 from .vector_db.zilliz import ZillizDBConfig
 from .mem0_config import Mem0Config
+from .vector_db.mongodb import MongoDBConfig
